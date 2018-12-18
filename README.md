@@ -1,9 +1,7 @@
-## Welcome to GitHub Pages
+## Meu Portfolio 
+Eriky Joseph, 18
 
-You can use the [editor on GitHub](https://github.com/erikyjoseph/erikyjoseph.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Estudante de programação em Jogos Digitais, IFRN - CM
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
