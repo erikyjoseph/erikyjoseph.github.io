@@ -1,4 +1,5 @@
 ## Meu Portfolio 
+```markdown
 Eriky Joseph, 18
 
 Estudante de programação em Jogos Digitais, IFRN - CM
