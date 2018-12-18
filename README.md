@@ -2,6 +2,12 @@
 Eriky Joseph, 18
 
 Estudante de programação em Jogos Digitais, IFRN - CM
+
+
+# Contatos
+
+1. . Facebook
+2. Instagram 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
