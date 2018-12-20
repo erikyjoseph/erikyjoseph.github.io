@@ -1,5 +1,5 @@
 ## Meu Portfolio 
-```markdown
+
 Eriky Joseph, 18
 
 Estudante de programação em Jogos Digitais, IFRN - CM
@@ -11,7 +11,7 @@ Estudante de programação em Jogos Digitais, IFRN - CM
 
 ![VACAA](http://www.andresugai.org/Tutoriais/07.2007/T02/imagem12.jpg)
 
-![AVATAR](IFRN.jpg)
+![imagem1](IFRN.jpg)
 
 # Contatos
 1. . Facebook
