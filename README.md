@@ -6,8 +6,7 @@ Estudante de programação em Jogos Digitais, IFRN - CM
 
 1. Adicionar link: 
 # Contatos
-[VACA](https://cdn.dicionariopopular.com/imagens/a-vaca-foi
-
+[VACA](https://cdn.dicionariopopular.com/imagens/a-vaca-foi-pro-brejo-og.jpg)
 ![vaca](https://cdn.dicionariopopular.com/imagens/a-vaca-foi-pro-brejo-og.jpg)
 
 # Contatos
