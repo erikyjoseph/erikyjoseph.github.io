@@ -11,10 +11,9 @@ Karateca
 
 # Alguns dos meus trabalhos... 
 
-![imagem](Jogo.png)
+<a href="https://ruanaffff.github.io/CAOZINHOGUB/" target = "_blank" > [[![imagem](jogo.png)](https://ruanaffff.github.io/CAOZINHOGUB/)]<a/>
 
-![imagem2](Jogo2.png)
+<a href = "https://hadssajordana7.github.io/earthhalf/" target = "_blank" > [![imagem](Jogo2.png)](https://hadssajordana7.github.io/earthhalf/)
 
 
-
-<a href = "https://ruanaffff.github.io/CAOZINHOGUB/" target = "_blank" > [![imagem](Jogo2.png)](https://ruanaffff.github.io/CAOZINHOGUB/)
+<a href = "_endereço_" target = "_blank" > [![imagem](jogo.png)](https://ruanaffff.github.io/CAOZINHOGUB/)
