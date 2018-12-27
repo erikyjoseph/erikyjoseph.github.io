@@ -11,6 +11,14 @@ Karateca
 
 # Alguns dos meus trabalhos... 
 
-<a href="https://ruanaffff.github.io/CAOZINHOGUB/" target="_blank"> Cão </a>
+<a href="https://ruanaffff.github.io/CAOZINHOGUB/" target="_blank"> Dog Challenge </a>
 
-<a href = "https://hadssajordana7.github.io/earthhalf/" target = "_blank" > [![imagem](Jogo2.png)](https://hadssajordana7.github.io/earthhalf/)
+![imagem](jogo.png)
+
+<a href="https://hadssajordana7.github.io/earthhalf/" target="_blank"> Earth Half </a>
+
+![imagem2](Jogo2.png)
+
+
+
+
