@@ -11,7 +11,7 @@ Karateca
 
 # Alguns dos meus trabalhos... 
 
-<a href = " https://ruanaffff.github.io/CAOZINHOGUB/ " target = "_blank" > Dog Challenge </a>
+<a href = "https://ruanaffff.github.io/CAOZINHOGUB/" target = "_blank" > Dog Challenge </a>
 
 ![imagem](jogo.png)
 
