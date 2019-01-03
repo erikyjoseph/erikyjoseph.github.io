@@ -11,7 +11,7 @@ Karateca
 
 # Alguns dos meus trabalhos... 
 
-<a href="https://ruanaffff.github.io/CAOZINHOGUB/" target="_blank"> Dog Challenge </a>
+<a href = " https://ruanaffff.github.io/CAOZINHOGUB/ " target = "_blank" > Dog Challenge </a>
 
 ![imagem](jogo.png)
 
@@ -22,6 +22,10 @@ Karateca
 <a href="https://hanzpeters.github.io/Paneboom/" target="_blank"> Paneboom </a>
 
 ![imagem3](Jogo3.png)
+
+<a href="https://erikyjoseph.github.io/maequemapagou/" target="_blank"> Mãe! Quem apagou a luz? </a>
+
+![imagem4](jogo44.png)
 
 
 
