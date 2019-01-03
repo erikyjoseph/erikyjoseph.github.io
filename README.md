@@ -31,5 +31,13 @@ Karateca
 ![imagem4](jogo44.png)
 
 
+### Instagram 
+
+@josepheriky_
+
+### Facebook 
+
+Eriky Joseph
+
 
 
