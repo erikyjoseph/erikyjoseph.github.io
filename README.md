@@ -1,6 +1,8 @@
 # Portifólio
 
 ## Sobre mim...
+![imagemI](minhaaa)
+
 Eriky Joseph, 18
 
 IFRN - Campus Ceará Mirim 
