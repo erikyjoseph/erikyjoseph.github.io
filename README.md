@@ -1,7 +1,8 @@
 # Portifólio
 
 ## Sobre mim...
-![imagemI](minhaaa)
+
+![imagemI](minhaaa.jpg)
 
 Eriky Joseph, 18
 
